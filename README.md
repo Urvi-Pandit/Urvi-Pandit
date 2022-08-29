@@ -1,5 +1,5 @@
 ### Hi!👋 I am Urvi Pandit
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Urvi-Pandit&label=Profile%20views&color=0e75b6&style=flat-square&label=PROFILE+VIEWS" alt="Urvi-Pandit" /> </p>
 <!--
 **Urvi-Pandit/Urvi-Pandit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
