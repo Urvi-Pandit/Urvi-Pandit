@@ -1,10 +1,9 @@
-<h1 align="center">Hi 👋, I'm Urvi Pandit</h1>
+<h1 align="center">Hi! I'm Urvi Pandit</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Urvi-Pandit&label=Profile%20views&color=0e75b6&style=flat-square&label=PROFILE+VIEWS" alt="Urvi-Pandit" /> </p>
 
 ## 📈 MY STATS
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Urvi-Pandit&label=Profile%20views&color=0e75b6&style=flat-square&label=PROFILE+VIEWS" alt="Urvi-Pandit" /></p>
-<p>(Changed Username)</p>
 
 <p align="center"><img alt="Urvi Pandit's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Urvi-Pandit&langs_count=6&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></p>
 
